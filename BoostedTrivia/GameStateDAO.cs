@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 
 namespace BoostedTrivia
 {
@@ -17,7 +18,7 @@ namespace BoostedTrivia
                     */
         }
 
-        public void save(List<string> players, int[] places, int[] purses, bool[] inPenaltyBox) {
+        public void save(ArrayList players, int[] places, int[] purses, bool[] inPenaltyBox) {
         }
     }
 }
