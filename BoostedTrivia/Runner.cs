@@ -2,7 +2,7 @@
 
 namespace BoostedTrivia
 {
-    class Program
+    class Runner
     {
         private static bool notAWinner;
 
